@@ -21,11 +21,3 @@
 - `cd task-manager-app/ && npm run dev`
 
 -----------------------------------------------------------------------------------------------------
-
-
-## add & edit & delete & view a Task
-![](screenshots/2.png)
-## search for a Task
-![](screenshots/3.png)
-## view profile & update info & update image
-![](screenshots/4.png)

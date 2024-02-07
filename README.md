@@ -1,6 +1,6 @@
 # task-manager-app
-#### A simple task manager app handles all CRUD opeartions on tasks (create, view, update and delete) and user profile info (update and add user image). 
-##### with all authentication and authorization handled in the backend using `Node.js` (JWT, Validation, Sanitization)
+#### A simple task manager app handles all CRUD opeartions on tasks (create, view, update and delete) and user profile info. 
+##### with all authentication and authorization handled in the backend using `Node.js` (JWT, Validation)
 ##### a friendly frontend app using `React.js` (Routing, Context API, React hooks, MaterialUI)
 
 ## First time configurations
@@ -21,13 +21,3 @@
 - `cd task-manager-app/ && npm run dev`
 
 -----------------------------------------------------------------------------------------------------
-
-## Sign in
-![](screenshots/1.png)
-
-## add & edit & delete & view a Task
-![](screenshots/2.png)
-## search for a Task
-![](screenshots/3.png)
-## view profile & update info & update image
-![](screenshots/4.png)
